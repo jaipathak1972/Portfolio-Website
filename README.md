@@ -2,12 +2,14 @@
 
 Welcome to my portfolio repository! This repository showcases my work as a Data Analyst and Data Scientist, including various projects I've completed. Here, you'll find details about my projects, technical skills, and ways to connect with me.
 
+### LINK of THE Portfolio ➡️ [jaipathak.com](https://jaipathak1972.github.io/Portfolio-Website/) ⬅️
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Technical Skills](#technical-skills)
-- [Contact Information](#contact-information)
-- [License](#license)
+
+![image](https://github.com/user-attachments/assets/5de3cc3a-afff-4920-b856-e5c13afed557)
 
 ## Introduction
 
