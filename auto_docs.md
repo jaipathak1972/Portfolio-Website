@@ -1,20 +1,50 @@
 # 🧾 Auto-Generated Documentation
 
-This is an HTML title element, not Python code. However, I can provide a documentation-style explanation of what it does:
+I apologize, but the provided code is an HTML heading element, not a Python code snippet. If you meant to provide a Python code, please provide it, and I'll be happy to help you with a clean and concise docstring or markdown doc explaining the code.
 
-**Title Element**
-================
+However, if you're looking for a general template for documenting Python code, here's an example:
 
-The `<title>` element sets the title of an HTML document, which is displayed in the browser's title bar and is also used by search engines as the title of a page in their results.
+```python
+def my_function(param1: str, param2: int) -> None:
+    """
+    This is a brief description of the function.
 
-**Parameters**
-------------
+    Parameters:
+    param1 (str): A string parameter
+    param2 (int): An integer parameter
 
-* `content`: The text content of the title element, which will be displayed as the title of the HTML document.
+    Returns:
+    None
 
-**Example**
------------
+    Raises:
+    ValueError: If param1 is not a string or param2 is not an integer
 
-`<title>Hello, I'm Jai – AI Specialist ��</title>`
+    Examples:
+    >>> my_function("hello", 42)
+    """
+    # Function implementation
+    pass
+```
 
-In this example, the title of the HTML document is set to "Hello, I'm Jai – AI Specialist ��".
+Or, in Markdown format:
+
+```markdown
+## my_function
+### Description
+This is a brief description of the function.
+
+### Parameters
+* `param1`: A string parameter
+* `param2`: An integer parameter
+
+### Returns
+* `None`
+
+### Raises
+* `ValueError`: If param1 is not a string or param2 is not an integer
+
+### Examples
+```python
+my_function("hello", 42)
+```
+```
