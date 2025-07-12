@@ -1,50 +1,45 @@
 # 🧾 Auto-Generated Documentation
 
-I apologize, but the provided code is an HTML heading element, not a Python code snippet. If you meant to provide a Python code, please provide it, and I'll be happy to help you with a clean and concise docstring or markdown doc explaining the code.
+# Jai's Portfolio
+================
 
-However, if you're looking for a general template for documenting Python code, here's an example:
+This is a personal portfolio project showcasing Jai's work, skills, and experiences.
 
-```python
-def my_function(param1: str, param2: int) -> None:
-    """
-    This is a brief description of the function.
+**Overview**
+-----------
 
-    Parameters:
-    param1 (str): A string parameter
-    param2 (int): An integer parameter
+The portfolio is built using Python and is designed to provide a comprehensive overview of Jai's professional background, including projects, achievements, and skills.
 
-    Returns:
-    None
+**Components**
+--------------
 
-    Raises:
-    ValueError: If param1 is not a string or param2 is not an integer
+### Project Showcase
 
-    Examples:
-    >>> my_function("hello", 42)
-    """
-    # Function implementation
-    pass
-```
+* A curated collection of Jai's most notable projects, featuring descriptions, images, and links to live demos or repositories.
 
-Or, in Markdown format:
+### Skills Section
 
-```markdown
-## my_function
-### Description
-This is a brief description of the function.
+* A detailed list of Jai's technical skills, including programming languages, frameworks, and tools.
 
-### Parameters
-* `param1`: A string parameter
-* `param2`: An integer parameter
+### About Me
 
-### Returns
-* `None`
+* A brief biography of Jai, highlighting their background, interests, and career goals.
 
-### Raises
-* `ValueError`: If param1 is not a string or param2 is not an integer
+### Contact Information
 
-### Examples
-```python
-my_function("hello", 42)
-```
-```
+* A section providing Jai's contact details, including email, phone number, and social media profiles.
+
+**Getting Started**
+---------------
+
+To run the portfolio locally, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Install the required dependencies using `pip install -r requirements.txt`.
+3. Run the application using `python app.py`.
+4. Open a web browser and navigate to `http://localhost:5000` to view the portfolio.
+
+**License**
+-------
+
+This project is licensed under the MIT License. See `LICENSE` for details.
